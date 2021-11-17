@@ -7,5 +7,5 @@ Welcome to Colab DDos Panel! For Testing self website!
 # Owner OG SCRIPTS
 in Colab Checkout!
 # How to Using?
-* Click: https://colab.research.google.com/github/PC1266/Colab-DDos-Panel/blob/main/DDOS_PANEL_V1_5.ipynb
+* Click: https://colab.research.google.com/github/PC1266/Colab-DDos-Panel/blob/main/DDOS_PANEL_V1_6.ipynb
 * and Click Copy to Drive!
