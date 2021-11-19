@@ -9,3 +9,17 @@ in Colab Checkout!
 # How to Using?
 * Click: https://colab.research.google.com/github/PC1266/Colab-DDos-Panel/blob/main/DDOS_PANEL_V1_6.ipynb
 * and Click Copy to Drive!
+# Q&A
+* Q: Why using googe colab?
+* A: Google colab is good for python and easy!
+* Q: Why no having Layer 4 Attack?
+* A: Really you can put ipv4 to website but will not having Flood attack reason is google colab is limited so much for it,
+* Q: if i using main google account are risk?
+* A: really maybe no to get banned from google but anyways recommends to using alt account
+* Q: can i using this panel without clone?
+* A: you can! but if need to mutil attack you need a any google account for it. but clone will help you for create new account! try mutil clone!
+* Q: DDoS is ilgeal?
+* A: in normally so yes! but please trying youself server or allowed server for attack
+* Dstat.cc so allowed too.
+* But anyways if him lost self money can i tell ready to jail! i warning!
+* if have a any Q&A please create new issues!
