@@ -19,7 +19,7 @@ in Colab Checkout!
 * A: really maybe no to get banned from google but anyways recommends to using alt account
 * Q: can i using this panel without clone?
 * A: you can! but if need to mutil attack you need a any google account for it. but clone will help you for create new account! try mutil clone!
-* Q: DDoS is ilgeal?
+* Q: DDoS is illgeal?
 * A: in normally so yes! but please trying youself server or allowed server for attack
 * Dstat.cc so allowed too.
 * But anyways if him lost self money can i tell ready to jail! i warning!
