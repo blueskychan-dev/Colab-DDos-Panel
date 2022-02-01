@@ -24,3 +24,7 @@ in Colab Checkout!
 * Dstat.cc so allowed too.
 * But anyways if him lost self money can i tell ready to jail! i warning!
 * if have a any Q&A please create new issues!
+
+# New script will add on soon
+* 36DDoS
+- Notice: Please ask in issues about new script.
