@@ -1,5 +1,5 @@
 Example:
-   L7: python3 start.py <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>
-   L4: python3 start.py <method> <ip:port> <threads> <duration>
-   L4 Proxied: python3 start.py <method> <ip:port> <threads> <duration> <socks_type> <proxylist>
-   L4 Amplification: python3 start.py <method> <ip:port> <threads> <duration> <reflector file (only use with Amplification)>
+   L7: <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>
+   L4: <method> <ip:port> <threads> <duration>
+   L4 Proxied: <method> <ip:port> <threads> <duration> <socks_type> <proxylist>
+   L4 Amplification: <method> <ip:port> <threads> <duration> <reflector file (only use with Amplification)>
