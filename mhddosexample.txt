@@ -1,5 +1,6 @@
 Example:
-   L7: <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>
+   L7: <method> <url> <socks_type> <threads> ~/MHDDoS/<proxylist> <rpc> <duration> <debug=optional>
    L4: <method> <ip:port> <threads> <duration>
-   L4 Proxied: <method> <ip:port> <threads> <duration> <socks_type> <proxylist>
+   L4 Proxied: <method> <ip:port> <threads> <duration> <socks_type> ~/MHDDoS/<proxylist>
    L4 Amplification: <method> <ip:port> <threads> <duration> <reflector file (only use with Amplification)>
+For custom proxy you can remove a ~/MHDDoS/ path
