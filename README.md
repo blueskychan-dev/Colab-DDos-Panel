@@ -27,4 +27,6 @@ in Colab Checkout!
 
 # New script will add on soon
 * 36DDoS
+* MHDDoS Update 2
+* MHDDoS Update 1
 - Notice: Please ask in issues about new script.
