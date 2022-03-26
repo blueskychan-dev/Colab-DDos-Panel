@@ -31,3 +31,6 @@ in Colab Checkout!
 * MHDDoS Update 1
 * NodeDDoS (Under devloping by me, coming soon)
 - Notice: Please ask in issues about new script.
+# New update in coming soon
+* Change readme.md
+* and more.
